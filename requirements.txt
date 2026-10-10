@@ -1,0 +1,4 @@
+ollama
+ddgs
+requests
+beautifulsoup4
