@@ -53,7 +53,7 @@ The model name can be changed in `agent.py` (`MODEL = "qwen2.5:7b"`). Smaller la
 ## Sample output
 
 - best-open-source-llms-for-laptop
-- [Best open-source LLMs for laptop](reports/best-open-source-llms-for-laptop.md)
+- [Best open-source LLMs for laptop]([reports/best-open-source-llms-for-laptop.md](https://github.com/Prasannakumar198/research-agent/blob/daa98b443bbd6c97642587445e725867de8f4de9/best-open-source-llms-for-laptop.md))
 - [Top Python libraries for building AI agents](reports/top-python-libraries-for-building-ai-agents.md)
 
 
