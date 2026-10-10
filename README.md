@@ -1,8 +1,4 @@
 # Research Agent
-An open-source AI agent that researches any topic and writes a report, running fully on my laptop.
-
-
-# Research Agent
 
 A local AI agent built with Python and Ollama that researches any topic on the web and saves a sourced markdown report. It runs fully on open-source models, with no paid API.
 
