@@ -76,4 +76,4 @@ The model name can be changed in `agent.py` (`MODEL = "qwen2.5:7b"`). Smaller la
 
 ## What I learned
 
-(Write 2-3 sentences in your own words: for example, what surprised you about how the agent loop works, and what you would improve.)
+- The basic fundamentals on how to use Ollama, and different approach in building the agent.
